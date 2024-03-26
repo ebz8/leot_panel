@@ -15,7 +15,8 @@ return [
 
     'panel' => [
         'install' => env('KIRBY_PANEL_INSTALL', false),
-        'slug' => env('KIRBY_PANEL_SLUG', 'panel')
+        'slug' => env('KIRBY_PANEL_SLUG', 'panel'),
+        'redirect' => false,
     ],
 
     'thumbs' => [
