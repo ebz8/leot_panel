@@ -1,0 +1,29 @@
+title:
+  en: Home
+  de: Startseite
+
+icon: 🏠
+
+options:
+  preview: "{{ page.frontendUrl }}"
+
+tabs:
+  content:
+    icon: text
+    label: content
+    fields:
+      layouts: fields/layouts
+
+  meta:
+    icon: folder-structure
+    label: Meta
+    columns:
+      - width: 1/2
+        sections:
+          pages: sections/pages
+          images: sections/images
+
+      - width: 1/2
+        sections:
+          cover: sections/cover
+          description: sections/description

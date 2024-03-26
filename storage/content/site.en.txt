@@ -1,0 +1,13 @@
+Title: Cacao Kit
+
+----
+
+Footer: 
+
+----
+
+Cover: - file://2dIuJyTKBm3iUOKu
+
+----
+
+Description: 🍫 Best practice Nuxt starter for a headless Kirby CMS
